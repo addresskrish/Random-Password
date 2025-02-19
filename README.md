@@ -8,7 +8,7 @@ A simple **Random Password Generator** built with **HTML, CSS, and JavaScript**.
 - Allows **one-click copying** of the generated password
 
 ## Demo
-![Password Generator](generate.png)
+![Password Generator](Random-Pass.png)
 
 ## Installation
 1. Clone this repository:
